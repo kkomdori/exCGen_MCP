@@ -1,0 +1,10 @@
+[project]
+name = "excgen-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+dependencies = [
+    "fastmcp>=2.13.3",
+]
