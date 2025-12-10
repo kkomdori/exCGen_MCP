@@ -18,9 +18,9 @@ An MCP server implementation of exCGen using FastMCP. Ported from the original w
 - Developing DNA probes
 - Synthetic biology applications
 
-# Connecting this MCP to Claude Desktop (uv Edition)
+# Connecting this MCP to Claude Desktop in local condition
 
-This guide explains how to integrate the **exCGen MCP** server with the Claude Desktop App in local (stdio type).   
+This guide explains how to integrate the **exCGen MCP** server with the Claude Desktop App.   
 This project uses **`uv`** (an extremely fast Python package manager) to handle dependencies and execution automatically.
 
 ### 1. Prerequisites
