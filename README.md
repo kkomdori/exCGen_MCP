@@ -18,7 +18,7 @@
 
 # Connecting this MCP to Claude Desktop (uv Edition)
 
-This guide explains how to integrate the **exCGen MCP** server with the Claude Desktop App.   
+This guide explains how to integrate the **exCGen MCP** server with the Claude Desktop App in local (stdio type).   
 This project uses **`uv`** (an extremely fast Python package manager) to handle dependencies and execution automatically.
 
 ### 1. Prerequisites
