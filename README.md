@@ -1,5 +1,7 @@
 # exCGen_MCP
 
+An MCP server implementation of exCGen using FastMCP. Ported from the original web version: https://github.com/kkomdori/exCGen_v1
+  
 ### Features of exCGen_MCP:
 **Design mutually exclusive DNA Sequences:**
 - Generate mutually exclusive DNA sequences that won't bind to each other
